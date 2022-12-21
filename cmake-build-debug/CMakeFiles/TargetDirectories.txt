@@ -1,0 +1,3 @@
+/Users/nicolascaceres/Desktop/pooAccounts/cmake-build-debug/CMakeFiles/pooAccounts.dir
+/Users/nicolascaceres/Desktop/pooAccounts/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nicolascaceres/Desktop/pooAccounts/cmake-build-debug/CMakeFiles/rebuild_cache.dir
